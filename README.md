@@ -25,4 +25,4 @@ Copyright© 2024 Freebobux - ChrisPapadopulos
 ## Change Logs:
 
 Made run_main to run without changing the path from the file ("Your path to the file\main.py" -> "%cd%\main.py") \
-Making boostrapper (SOON)
+__**Made boostrapper**__
